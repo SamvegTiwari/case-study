@@ -1,0 +1,45 @@
+#main {
+    background:salmon;
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px solid white;
+  }
+ 
+  #main h5 {
+    background: white;
+    width: 310px;
+    padding: 10px;
+    margin-bottom: 0px;
+    box-shadow: 5px 5px 2px orchid
+  }
+
+  #main2 {
+    background:rgb(114, 250, 250);
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px solid white;
+  }
+ 
+  #main2 h5 {
+    background: white;
+    width: 310px;
+    padding: 10px;
+    margin-bottom: 0px;
+    box-shadow: 5px 5px 2px rgb(218, 169, 112)
+  }
+
+
+  #main3 {
+    background:rgb(4, 0, 251);
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px solid white;
+  }
+ 
+  #main3 h5 {
+    background: white;
+    width: 310px;
+    padding: 10px;
+    margin-bottom: 0px;
+    box-shadow: 5px 5px 2px rgb(255, 255, 255)
+  }
